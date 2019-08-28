@@ -1,0 +1,3 @@
+
+
+Jeu du Serpent créé au pas à pas avec les vidéos de John Codeur sur UDEMY.COM (formation développeur web - section Javascript).
